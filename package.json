@@ -1,0 +1,36 @@
+{
+  "name": "bbg-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hanindiyos/bbg-task.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "starwars",
+    "swapi"
+  ],
+  "author": "Hanindyo S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanindiyos/bbg-task/issues"
+  },
+  "homepage": "https://github.com/hanindiyos/bbg-task#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-react": "^7.8.3",
+    "parcel-bundler": "^1.12.4"
+  }
+}
